@@ -18,4 +18,4 @@ Finally, train `train_UrbanSTC.py`
 
 # Model Efficiency
 
-We provide model efficiency in `Test_Model_Efficiency`.
+We provide test model efficiency in `Test_Model_Efficiency`.
