@@ -18,4 +18,4 @@ Finally, train `train_UrbanSTC.py`
 
 # Model Efficiency
 
-We provide training time and inference time in `Test_Model_Efficiency`.
+We provide model efficiency in `Test_Model_Efficiency`.
