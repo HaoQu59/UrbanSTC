@@ -6,6 +6,3 @@
 
 Here, we release P1 in TaxiBJ (7/1/2013-10/31/2013) for public use. Totally, there 1530, 765 and 765 samples in the training, validation and test set respectively. Besides, the corresponding external factors data (e.g., meteorology, time features) are also included. 
 
-# Model Efficiency
-
-We provide test model efficiency in `Test_Model_Efficiency`.
