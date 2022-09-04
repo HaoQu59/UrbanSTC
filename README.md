@@ -1,5 +1,7 @@
 # UrbanSTC
 
+In this study, we use contrastive self-supervision learning for the fine-grained urban flow inference.
+
 *This is an easy implement of UrbanSTC using Pytorch 1.6, tested on Ubuntu 16.04 with a RTX 2080 GPU.*
 
 # Dataset
