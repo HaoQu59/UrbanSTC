@@ -34,7 +34,7 @@ month = {aug}
 
 # Result
 
-We evaluate our method on TaxiBJ in four different time periods with different proportions of training data. The main experimental results are shown as follows:
+We evaluate our method on TaxiBJ in four time periods with different proportions of training data. The main experimental results are shown as follows:
 
 ![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/results.png)
 
