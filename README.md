@@ -11,8 +11,12 @@ Hao Qu, Yongshun Gong∗, Meng Chen, Junbo Zhang, Yu Zheng, and Yilong Yin. "For
 If you find our code and dataset useful for your research, please cite our paper (preprint at arxiv):
 
 # Framework
-![Image text](https://github.com/HaoQu59/UrbanSTC/image/framework.png)
 
+![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/framework.png)
+
+# Result
+
+![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/results.png)
 
 # Dataset
 
