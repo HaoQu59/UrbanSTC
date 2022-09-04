@@ -6,11 +6,21 @@ In this study, we use contrastive self-supervision learning for the fine-grained
 
 # Paper
 
-Hao Qu, Yongshun Gong∗, Meng Chen, Junbo Zhang, Yu Zheng, and Yilong Yin. "
-[Forecasting Fine-grained Urban Flows via Spatio-temporal Contrastive Self-Supervision](http://www.google.com/)
-[Forecasting Fine-grained Urban Flows via Spatio-temporal Contrastive Self-Supervision](https://www.computer.org/csdl/journal/tk/5555/01/09864246/1G2VMmbOYtG)", TKDE 2022.
+Hao Qu, Yongshun Gong∗, Meng Chen, Junbo Zhang, Yu Zheng, and Yilong Yin. "[Forecasting Fine-grained Urban Flows via Spatio-temporal Contrastive Self-Supervision](https://www.computer.org/csdl/journal/tk/5555/01/09864246/1G2VMmbOYtG)", TKDE 2022.
 
-If you find our code and dataset useful for your research, please cite our paper (preprint at arxiv):
+If you find our code and dataset useful for your research, please cite our paper:
+
+```
+@article{qu2022forecasting,
+  title={Forecasting Fine-Grained Urban Flows Via Spatio-Temporal Contrastive Self-Supervision},
+  author={Qu, Hao and Gong, Yongshun and Chen, Meng and Zhang, Junbo and Zheng, Yu and Yin, Yilong},
+  journal={IEEE Transactions on Knowledge \& Data Engineering},
+  number={01},
+  pages={1--17},
+  year={2022},
+  publisher={IEEE Computer Society}
+}
+```
 
 # Framework
 
