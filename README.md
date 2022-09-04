@@ -12,11 +12,11 @@ If you find our code and dataset useful for your research, please cite our paper
 
 # Framework
 
-![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/framework.png)
+![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/framework.png#pic_center)
 
 # Result
 
-![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/results.png)
+![Image text](https://github.com/HaoQu59/UrbanSTC/blob/main/img/results.png#pic_center)
 
 # Dataset
 
